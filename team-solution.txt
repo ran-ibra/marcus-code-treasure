@@ -7,6 +7,9 @@ CHALLENGE 5: 8
 CHALLENGE 6: The hidden file for Challenge 6 isn’t showing in our cloned repo because
              .gitignore excludes *.secret files, so the file was never committed and doesn’t
               exist in the repository history.
-COORDINATES: 
-DECODED MESSAGE:
-COMPLETION TIME:
+COORDINATES: 71352938
+DECODED MESSAGE: 
+                The truth is not in the coordinates
+                The real TrustValut is your ability to work as a team
+                Congrats! You've learned Git and collaboration!
+COMPLETION TIME: 21:40
