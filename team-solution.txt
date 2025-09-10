@@ -4,7 +4,9 @@ CHALLENGE 2: 2
 CHALLENGE 3: 9
 CHALLENGE 4: 3
 CHALLENGE 5: 8
-CHALLENGE 6: anything
+CHALLENGE 6: The hidden file for Challenge 6 isn’t showing in our cloned repo because
+             .gitignore excludes *.secret files, so the file was never committed and doesn’t
+              exist in the repository history.
 COORDINATES: 
 DECODED MESSAGE:
 COMPLETION TIME:
